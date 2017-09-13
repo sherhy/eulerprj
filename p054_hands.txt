@@ -1,0 +1,1000 @@
+4S,8C,9H,KC,TS	2S,3S,5D,7D,AC high card
+5C,5D,9C,AC,AD	5H,7C,8D,KS,TD two pairs	P1Win
+3H,6S,7H,JS,KC	2D,8S,JC,QH,TD high card	P1Win
+5C,8H,QS,TC,TH	4D,9H,JC,JS,KS one pair
+5H,7C,JD,KC,QH	4C,4S,AD,AS,KH two pairs
+5H,7D,9C,9H,KS	3S,5C,5D,8D,AH one pair	P1Win
+2H,3H,4H,5C,6H	3S,5S,6S,AS,QH straight	P1Win
+4H,7C,8C,TC,TD	3H,4C,7S,KC,KS one pair
+3H,6D,7C,9C,KD	4C,AC,KH,QC,QS one pair
+2D,2H,5H,6S,JC	7C,9D,AS,JS,KD one pair	P1Win
+8H,9D,AD,QH,TH	3S,6D,AC,AS,TS one pair
+2H,4S,5C,5S,TC	3C,6C,JD,KC,TS one pair	P1Win
+2C,6H,AS,JS,QD	3D,4H,8S,9H,KC high card	P1Win
+2S,7C,8S,9S,KD	3S,4H,6D,6S,KC one pair
+2D,3C,4D,7D,8C	4H,4S,9S,JD,QH one pair
+2D,7S,8C,KC,TC	5C,8H,AC,QD,TS high card
+3D,6C,6S,KH,QD	2H,8H,AD,AS,QS one pair
+4C,6C,6S,8D,8S	6D,7D,9D,QH,TC two pairs	P1Win
+2S,4C,8C,8D,TS	3D,9C,9D,9S,AC three of a kind
+2S,3C,4H,JH,QS	2D,3D,8S,9H,TD high card	P1Win
+3C,5H,6D,8S,QS	7D,7H,8C,AS,JD one pair
+6H,9D,AS,JH,TD	6C,9S,JC,KD,QC high card	P1Win
+4D,8S,AH,QS,TH	3C,3D,5C,AC,TS one pair
+3D,4D,5S,8H,JS	3S,6C,8C,AD,TS high card
+3S,5D,5H,6D,7C	2H,3D,5C,5S,JC high card
+2S,3D,5H,6H,KS	5D,7H,8H,JD,JS one pair
+4H,AS,JS,KH,QS	6D,7C,KS,QC,TC high card	P1Win
+2H,3D,JS,QS,TS	4D,9S,AS,JC,KD high card
+4D,5D,5H,KH,QD	3D,4H,7H,JS,KD one pair	P1Win
+2C,5C,6H,9D,9H	2D,6C,9S,JC,TH one pair	P1Win
+6D,7D,AS,JH,QD	4D,5C,7C,JS,QS high card	P1Win
+3H,8C,AD,KH,QD	3S,5S,8H,9D,TH high card	P1Win
+4D,8S,9D,9S,AH	3C,4H,8D,JS,TC one pair	P1Win
+2C,3S,5H,KS,QD	8S,9H,AD,AH,TS one pair
+5C,5D,7H,9H,KD	2D,3D,4D,AD,KS straight
+2C,6D,9S,KC,KS	9D,9H,QH,TC,TS two pairs
+4D,5D,6H,9C,QH	6D,AD,JS,KH,QC high card
+3H,5C,9D,9S,JD	4D,9H,AS,QH,TC one pair	P1Win
+2C,3C,6D,9C,JC	7D,9D,9S,AD,KH one pair
+7C,9C,JC,JS,KC	3C,3H,7D,AS,KD one pair	P1Win
+2C,3S,KH,QD,QS	8H,8S,9C,9H,JC two pairs
+3C,4C,8D,KC,QH	4H,6D,9D,9H,AD one pair
+3S,7H,KH,KS,QS	5D,5H,7D,AD,JD one pair	P1Win
+2C,2H,6H,TC,TH	4H,7D,8C,8D,AS two pairs	P1Win
+2H,3S,4S,AC,QC	4C,4D,6D,KH,TH one pair
+4D,7C,AS,KS,TC	2D,3C,6C,6D,9H one pair
+2C,5D,8C,QS,TD	3H,4C,7H,9C,9H one pair
+5H,7S,JH,TD,TS	6H,8H,8S,AD,QD one pair	P1Win
+5S,7C,8C,9C,AD	2S,5H,8D,8S,9D one pair
+2S,4H,9S,KH,KS	4S,5S,7D,AD,KC one pair	P1Win
+6H,9C,JS,QD,QS	2S,5D,8D,AC,AS one pair
+3S,9D,AC,JC,KH	3C,5S,9C,9S,JS one pair
+3C,3D,3S,AD,KS	4S,5C,8C,9C,TS three of a kind	P1Win
+5D,6H,8D,JH,KD	3D,6C,KC,QD,QS one pair
+3S,6C,8C,8S,JD	3C,JS,QC,QH,TC one pair
+2S,8H,9H,JC,KC	8C,8S,9C,9S,JH two pairs
+2H,4D,8S,QC,QH	3C,9D,AS,KC,TH one pair	P1Win
+2H,6H,7C,8S,TH	3C,3H,6S,7S,AS one pair
+4H,5H,5S,JS,QH	8H,AC,AH,JC,TS one pair
+2S,4S,8H,9D,TC	3C,3H,5C,7H,JC one pair
+3C,3D,3S,4C,AD	5D,8C,AS,QC,TH three of a kind	P1Win
+4C,6S,9D,JS,KH	8H,AD,AH,JD,TS one pair
+4C,6S,7S,9D,AC	3D,3S,4D,JD,TC one pair
+4H,6H,7H,AD,JH	6S,7D,KC,TD,TS one pair
+3S,8D,8H,JH,TC	2C,4D,5C,8C,9S one pair	P1Win
+2C,9D,KC,QH,TH	4H,9C,JC,QS,TS high card	P1Win
+3C,8H,KH,QD,QS	4H,8D,8S,AC,TD one pair	P1Win
+3C,5S,7C,8H,TH	8C,9C,JD,KD,TC high card
+8C,JD,QC,TC,TS	3H,6H,7C,KD,TD one pair	P1Win
+6D,9C,JH,KS,QS	6H,6S,9H,AS,KH one pair
+2D,2H,4D,AH,JH	4H,5D,6H,JD,TD one pair	P1Win
+8C,9S,JH,KD,QD	2C,5C,7C,JS,QS high card	P1Win
+2S,4S,7H,8D,TC	6H,7C,7S,9C,KC one pair
+4S,5D,7H,8C,TD	4H,8S,JS,KS,QC high card
+6D,8S,AD,JH,TD	2D,6C,7C,7D,KD one pair
+4H,6H,6S,JC,JS	3C,4C,9H,AH,QH two pairs	P1Win
+5H,6H,7C,7S,AS	3D,5C,5D,KC,KH two pairs
+3D,4D,AS,JC,TD	6D,6S,JD,KS,QH one pair
+2S,7S,8C,8S,QH	5C,7H,AH,JD,QD one pair	P1Win
+2C,3C,6C,6H,8S	4C,4D,7D,8D,TD one pair	P1Win
+2S,5D,7C,KH,QH	6D,7H,JS,QC,QD one pair
+6C,6S,7D,AD,TH	2H,4H,6H,8H,KH flush
+2D,5D,JS,KD,KS	3D,7D,8C,9C,KH one pair	P1Win
+3C,6D,9C,KS,QD	2D,3S,7S,AH,JD high card
+8S,AH,AS,JC,QH	4C,7D,8H,KC,TH one pair	P1Win
+5D,5H,7C,JC,TD	4C,8H,AD,JS,KD one pair	P1Win
+2H,7D,AC,AH,KC	5D,6D,7S,JH,KH one pair	P1Win
+5S,6H,8S,9C,9S	6C,9H,AC,JD,TD one pair	P1Win
+6D,7D,8S,KD,TS	5D,5S,7C,7H,AC two pairs
+4C,AH,JC,QC,TC	2C,2H,7D,8C,TS one pair
+3D,6S,7D,KC,KD	2S,3H,5C,5S,8S one pair	P1Win
+4C,5D,6H,8H,8S	3H,5S,7C,KC,KD one pair
+3C,3D,6C,8C,JH	4C,7C,7H,KC,TD one pair
+6H,JC,KC,QS,TS	8C,8H,9S,KS,TD one pair
+5S,6C,7D,9C,QH	2C,9S,AH,KC,KS one pair
+4D,4S,8H,9C,TD	3S,7D,9D,AS,TH one pair	P1Win
+3C,5D,6H,6S,7D	2C,5C,9C,9D,KD one pair
+2H,3D,3H,AD,KC	4S,8D,JC,QD,QS one pair
+3H,7C,8C,9C,AD	5D,9D,AS,JC,JS one pair
+5C,5D,6S,7H,9H	6C,9S,JC,QC,QD one pair
+2C,6S,JC,JH,QS	3D,4S,9C,QC,TC one pair	P1Win
+3D,4D,4H,5S,8D	2C,2H,2S,JS,KC three of a kind
+3S,4D,KD,TD,TH	7H,AC,JH,JS,KS one pair
+2D,7S,8C,8S,9S	5C,7D,9D,AD,AS one pair
+2S,6C,7H,8C,TH	3H,3S,4C,8H,AC one pair
+5H,8H,JC,JD,KD	2D,4H,5C,JH,TD one pair	P1Win
+3D,7H,AS,KS,QH	5H,5S,6D,8S,JD one pair
+6S,9S,JC,QS,TC	5C,5D,8C,9C,TH one pair
+2S,3S,5H,9H,JH	2C,6S,7S,AS,KS high card
+8C,JC,QD,QS,TC	4H,6C,AC,KH,QC one pair	P1Win
+4H,5H,7D,JH,TC	2H,4D,8D,JC,KS high card
+5S,9C,9H,KD,KH	2D,3D,5C,7D,TS two pairs	P1Win
+4D,5H,8C,AS,TC	2C,3H,8D,9D,TS high card	P1Win
+2D,6H,8D,9H,JD	4S,5H,5S,6C,6D two pairs
+6H,7D,9C,AD,JC	3C,6D,9H,9S,JS one pair
+4C,AD,JH,QS,TC	5D,7C,9C,9S,AH one pair
+2H,6H,8S,KD,TH	9D,9H,AS,KS,QD one pair
+4H,5H,6C,8D,8H	5S,8S,AD,AH,AS two pairs
+2H,4S,5D,QS,TD	3H,5H,AC,JC,KS high card
+7D,9C,AC,KD,QD	5H,5S,6D,6H,QH two pairs
+2H,7D,AH,KC,QH	3H,7S,JD,KS,QS high card	P1Win
+3H,6C,6D,8S,KS	5C,5D,8H,QD,TC one pair	P1Win
+4D,4S,6S,9D,9H	4H,6C,JD,KH,QC two pairs	P1Win
+2D,4S,6H,QH,TD	3C,8C,JH,KD,QD high card
+4S,6H,7C,9D,QD	3C,6S,AD,AH,AS two pairs
+2C,6H,8D,KC,TH	5C,5D,6D,8S,AH one pair
+7C,AD,JC,TD,TS	3C,7H,9H,KC,QD one pair	P1Win
+4D,4H,5D,5S,8H	2D,3H,7D,JD,KD two pairs	P1Win
+4S,6H,JH,QS,TD	5C,7D,8H,8S,KD one pair
+3D,8C,AC,AS,TD	5D,6C,7H,JD,KH one pair	P1Win
+6D,7C,9D,KS,QH	AS,JD,KC,KD,TC one pair
+5S,7D,7S,8S,JH	2D,2H,3D,AD,AS two pairs
+2H,3C,5D,AS,QD	2C,6H,9H,9S,KC one pair
+4C,5D,9D,JH,TH	3H,8D,8H,9H,TC one pair
+2C,2H,6H,KD,TD	2D,6C,8C,9D,JS one pair	P1Win
+3C,7C,7S,AS,KD	2S,8C,AD,QH,TS one pair	P1Win
+4C,6C,8H,JS,QS	9S,AD,QC,TD,TS one pair
+2H,7C,8C,TC,TS	2D,3C,6D,9H,JC one pair	P1Win
+2H,8D,JH,KS,TC	3H,6D,8H,TD,TH one pair
+5D,9D,9H,QC,TD	6C,8C,8H,KC,TS one pair	P1Win
+2H,3D,4D,8C,AH	7D,8H,KC,TC,TH one pair
+2D,5C,6S,8C,TS	5H,6H,AH,KC,KH one pair
+4C,5D,5S,AH,TC	6C,6H,8C,8D,JD two pairs
+2D,3D,8H,KC,QD	2S,4H,9H,AD,JC high card
+6S,7D,JS,KD,TD	2S,3S,4H,8C,QS high card
+3S,4C,9H,JH,TS	4H,5S,9C,9S,QC one pair
+2C,9H,9S,JS,KD	3H,5D,AC,JC,TS one pair	P1Win
+2H,5D,5H,AD,AS	4C,7S,JC,JS,TD two pairs	P1Win
+2D,3D,4S,7D,8H	2C,9C,AD,KD,TS high card
+5H,7H,JH,JS,QD	3D,4C,8H,AC,TH one pair	P1Win
+5C,6D,KC,KH,QD	2D,4H,7C,AC,AD one pair
+3D,8S,9D,QD,TC	2C,4H,AH,JC,JD one pair
+5S,6C,8S,TC,TD	2C,5D,AC,AH,AS two pairs
+3D,6C,7S,AS,TH	4C,4H,7D,7H,AH two pairs
+2H,5C,6H,7S,KS	3C,3D,4H,5H,7H one pair
+3C,7S,9S,AC,QH	2H,3D,3H,3S,6S three of a kind
+2C,2D,3H,6H,AS	6C,6S,9C,JS,TC one pair
+6D,AC,KD,QD,QH	2C,6H,8C,KH,TS one pair	P1Win
+3S,5D,7D,8H,9H	3H,4S,5H,9S,QC high card
+2D,3C,6H,7H,9D	3S,4D,4S,5H,8S one pair
+4S,7S,9S,KD,TC	2H,3S,7H,8S,QC high card
+3D,3H,6C,8C,TC	2H,4D,6H,KD,KS one pair
+3D,3H,9S,JS,KC	2D,4S,6C,8H,8S one pair
+6C,6H,QD,QS,TC	4D,5H,7C,7D,9H two pairs	P1Win
+6C,6S,8D,9D,TD	5D,8H,JS,TC,TS one pair
+4H,9H,JD,KC,TC	2C,5H,6S,8H,AS high card
+5C,6S,9C,9D,JS	4C,6D,8H,JD,KC one pair	P1Win
+4D,6C,7C,8D,8S	5C,6H,7H,8H,KC one pair	P1Win
+3D,6D,JC,KS,TC	2C,6H,7S,9C,9S one pair
+3S,5H,6C,KD,TS	6H,7D,9H,9S,KH one pair
+3D,4C,6H,QD,TS	2H,3S,5C,AC,KD high card
+4C,7C,9S,AS,JS	7H,9H,JC,KS,TS high card	P1Win
+3H,4H,6H,8C,JD	4S,5S,9S,AD,KS high card
+2C,3D,4C,7D,AS	2S,6C,9C,KC,QS high card	P1Win
+2S,3D,5H,8S,AC	3S,4D,6S,9D,TD high card	P1Win
+3D,7S,QD,TH,TS	5D,6C,7H,AC,QC one pair	P1Win
+9C,AD,QD,QS,TC	3C,3D,5C,8D,KD one pair	P1Win
+3S,7C,8H,9D,AS	2D,8D,8S,JD,KC one pair
+4C,AC,JS,QH,TH	7D,7S,8D,9C,KH one pair
+2C,4C,8D,9D,JH	2S,4H,KD,QD,TS high card	P1Win
+2D,4D,5D,6D,JH	3H,3S,8S,KH,TC one pair
+2C,4D,8C,AD,QS	5C,AH,JD,JH,KD one pair
+2H,5C,5H,6C,JH	3H,4H,7C,KS,TC one pair	P1Win
+3C,4C,5D,JH,QC	8D,9C,KH,QD,TC high card	P1Win
+3H,7H,9C,JS,QH	5H,7C,9H,AS,JC high card
+2D,3C,4S,5S,QD	4C,5C,6C,6S,KC one pair
+2D,5D,8S,KH,TS	4C,7C,9C,9S,AS one pair
+5S,7C,8C,8D,AH	2C,JH,KD,QH,QS one pair
+2H,8C,9D,AC,AH	2C,5S,7H,8H,QC one pair	P1Win
+5S,9H,QC,QD,QS	4H,5H,9C,JC,TH three of a kind	P1Win
+3H,3S,5H,6C,6S	6H,7S,8D,AC,KS two pairs	P1Win
+4S,7H,8C,AC,QH	3D,3S,6C,KC,TC one pair
+3D,9D,AC,JS,TH	3H,3S,5H,8S,TC one pair
+9S,JS,KH,KS,QD	3C,8D,AC,AH,QC one pair
+3S,5H,6C,9S,KH	2D,8C,AS,JH,QD high card
+4D,5S,6C,7H,7S	4H,6S,9H,JC,JH one pair
+5S,6H,9S,AD,AH	2H,3S,8C,9D,TH one pair	P1Win
+4C,7C,8D,9H,QC	4S,5S,9C,AD,KC high card
+4C,4D,6H,9D,TC	2S,3S,5D,AS,JH one pair	P1Win
+2H,5C,6C,7C,KH	8S,AD,JD,QS,TH high card
+3S,4S,7S,AH,AS	2S,AD,JS,KC,TH one pair	P1Win
+2S,7D,8C,JS,KC	5C,5H,9C,9D,TS two pairs
+4D,7S,9S,JH,TD	2C,5D,6H,JS,KH high card
+2D,JC,JD,JS,TH	3D,5H,8C,AC,QD three of a kind	P1Win
+5D,5S,7S,9D,KH	2D,3C,4S,6H,TD one pair	P1Win
+4D,4S,5D,8D,AC	7C,9C,AD,AH,AS two pairs
+2C,6S,KS,TH,TS	3C,4S,AH,AS,QC one pair
+2H,3S,5C,8C,JC	3C,3H,7C,JH,KH one pair
+3H,5S,6H,7S,JC	2S,4C,4D,7H,KC one pair
+4D,4H,7C,8S,9S	6C,6S,AD,JC,TC one pair
+3S,4C,KH,QS,TC	3C,8H,8S,AC,TS one pair
+3C,QD,QS,TH,TS	7D,7H,AH,JC,TD two pairs	P1Win
+4D,9S,JD,QC,TD	7D,7S,AC,AD,TS two pairs
+4S,6D,7C,7H,AH	2H,9D,JC,KS,TD one pair	P1Win
+4H,6D,7C,AH,JD	2C,2H,5C,QS,TS one pair
+4C,8C,9S,KC,TC	3C,6S,AH,JC,JS one pair
+3D,5S,7D,AS,QC	9D,JC,JD,KH,TD one pair
+2S,3C,6H,AH,TH	5C,5H,7S,8H,AC one pair
+2D,2S,AC,QC,QD	3S,6S,8H,JD,QS two pairs	P1Win
+3C,4H,9D,JS,KC	3S,6H,8C,8S,AS one pair
+2H,7D,7H,JD,KC	3H,5S,JC,QH,QS one pair
+3S,7S,8H,9H,TD	5C,6C,7C,AC,AH one pair
+8D,9H,AH,JD,TD	3S,7D,8S,9C,QS high card	P1Win
+3C,AH,JD,KC,QH	4S,5D,5S,KS,TD one pair
+6S,7H,9H,JH,TH	2D,4C,5C,7C,AD high card
+5S,7C,9D,KD,TC	2S,5D,6C,6S,TH one pair
+5H,7H,8D,9H,KC	3D,4H,7C,AS,QC high card
+4S,6S,8S,QC,TD	2S,5C,QD,QS,TH one pair
+5H,8S,9H,QC,TH	5C,6S,7C,7D,KC one pair
+4D,7H,AH,KD,KH	2D,4S,5C,KC,QH one pair	P1Win
+2C,6S,AS,JC,TD	4D,4H,5S,6C,8C one pair
+5S,6S,JC,JD,TC	3S,8D,9D,AD,AS one pair
+5D,5S,6D,6H,TC	3D,7D,9D,QD,QS two pairs	P1Win
+3S,4S,6C,7S,8S	2D,7C,7D,AD,KS one pair
+AC,JC,KC,QD,QH	5D,7D,7H,8D,QS one pair	P1Win
+3D,5H,8S,AH,JS	3H,4S,6C,JH,TD high card	P1Win
+4S,7D,9H,AS,QS	5C,6D,JS,KS,TC high card	P1Win
+2D,4D,5C,6H,TC	3D,6C,8S,9H,QH high card
+5S,6D,7H,TC,TH	5C,9C,JD,KD,KS one pair
+4S,6S,8D,QH,TD	5C,6C,8S,KC,TC high card
+3D,4S,5S,AC,KS	2S,4C,7D,QD,TH high card	P1Win
+6S,7S,8H,9S,TS	3C,7H,8C,AH,QH straight	P1Win
+4C,8C,JS,QC,TS	3D,5D,7D,7S,JH one pair
+7S,8S,9D,AC,QC	2H,6D,7C,JH,KC high card	P1Win
+3C,4S,6S,JS,KD	5H,7C,AH,KS,QC high card
+4H,6S,JD,KS,QS	6H,8H,AS,KC,TC high card
+6S,7C,KH,TC,TD	3S,5C,7D,AH,JC one pair	P1Win
+3H,4C,4H,TC,TH	6D,6S,7H,9C,QH two pairs	P1Win
+4S,5H,7D,8C,JS	3D,4D,8S,KC,QH high card
+3H,3S,6S,7H,AD	4S,7S,8S,JS,QC one pair	P1Win
+3S,6H,JD,KH,TH	2D,6C,9C,QD,QS one pair
+4D,4S,5H,KC,QH	5S,6D,7D,8D,TH one pair	P1Win
+6S,7H,AD,KD,TD	5S,9H,JC,KC,KH one pair
+3H,4S,AS,QC,TS	7S,9C,KC,KS,QD one pair
+6C,6S,QC,TH,TS	5C,5D,9D,KD,TC two pairs	P1Win
+3S,4C,4H,JS,KD	6D,9D,9S,JC,QD one pair
+4H,6D,8S,JH,JS	6C,6H,6S,KH,KS two pairs
+5D,7D,9S,AC,TC	6H,6S,AS,KH,QD one pair
+6D,7H,8D,AS,QH	2S,5C,5H,KH,TH one pair
+3D,4C,7C,QC,TC	2D,4S,8C,JS,KH high card
+5D,5H,6H,7S,9C	7H,8S,9H,JH,TH straight
+2S,AS,JS,KH,QD	4S,8D,8H,8S,AC straight	P1Win
+3H,4C,8C,KD,TD	2D,5C,JC,JD,QS one pair
+2C,5D,6C,7D,TS	2H,3C,AH,KS,QS straight
+4S,7C,7D,9C,JH	5C,6C,8H,9D,QD one pair	P1Win
+2S,6D,7S,9C,TD	5C,9S,KH,QH,QS one pair
+6S,9C,JC,JH,QH	2H,7S,8D,JS,KH one pair	P1Win
+4D,5H,8D,KC,TH	3D,3S,4S,6S,QS one pair
+2D,4C,7C,JD,TD	6D,7S,AH,JC,TH high card
+4C,7S,9D,QS,TH	3H,4D,6H,AD,TS high card
+2D,3D,3H,7D,JD	2S,8S,9C,AS,QC one pair	P1Win
+2C,4H,7S,9C,9H	5C,5D,6H,JH,KD one pair	P1Win
+3C,8H,9H,JC,TC	8D,9S,AD,KC,KS one pair
+5H,JD,QH,QS,TS	5D,8D,AH,KH,QC one pair	P1Win
+4C,5D,6S,8S,AS	7H,AH,QC,QD,TH one pair
+3H,4H,4S,6S,7D	8H,9D,9H,AS,JS one pair
+2C,7D,8C,9D,JD	5H,5S,9S,JC,KD one pair
+4S,9C,AH,KD,QD	7C,9D,AC,AD,TD one pair
+4H,4S,6S,8D,9C	7C,9D,JH,KS,TC one pair	P1Win
+4S,5H,5S,JC,QH	2C,2S,9S,AC,JS one pair	P1Win
+5H,8C,AD,AS,QD	5C,7D,8S,QC,TD one pair	P1Win
+4C,5C,8D,JC,KH	2C,2H,4D,6H,QS one pair
+2D,3H,4S,KC,TH	7H,9D,AC,AD,QD one pair
+8H,AS,KH,QD,TH	7S,8C,8D,KC,QH one pair
+6C,7D,8C,JC,KH	2D,2H,6S,AD,QS one pair
+2D,7D,JC,JS,KH	4C,5D,5H,AD,QC one pair	P1Win
+3S,4S,AD,TD,TS	2D,6S,9H,JH,TH one pair	P1Win
+2C,2D,4S,9H,QS	3D,9D,AC,AS,KH one pair
+4S,6S,8H,KD,KH	7D,9D,QC,QD,TS one pair	P1Win
+5H,AH,AS,JH,KS	5S,AD,JC,KH,QC one pair	P1Win
+5D,6D,7D,KD,KS	3D,3S,4D,7C,JD one pair	P1Win
+5H,8D,9C,AC,JS	2C,3H,4D,4H,TS one pair
+6H,7C,9D,KH,KS	2H,2S,3D,6S,8S one pair	P1Win
+3S,6H,7S,AC,JS	3H,4H,8H,TD,TH one pair
+5C,9H,KC,QC,TC	4H,6H,8S,AC,KS high card
+4S,7D,JC,QH,TC	6C,6D,AC,KH,TS one pair
+7C,7D,JH,QH,QS	3H,5D,KS,QD,TH two pairs	P1Win
+3D,4C,5S,8D,JS	2C,4H,7H,9C,KS high card
+2C,4H,5H,8S,TD	3H,3S,KC,QC,QD two pairs
+9C,AD,JS,KD,QC	5S,7D,7H,9D,TS one pair
+7C,7S,8C,JC,KH	2C,6C,QD,TH,TS one pair
+3C,5S,7S,9D,TH	2H,5H,8S,9C,QH high card
+2S,5D,6H,9H,JS	2H,3H,5S,7C,KH high card
+2C,5D,5S,JD,TC	2S,3C,6C,6S,8S one pair
+2D,4D,4H,8H,KH	2S,3H,5C,9H,KS one pair	P1Win
+2D,3S,7H,8S,TD	6H,8D,9C,JD,KC high card
+6S,7C,9H,JH,QD	5H,8H,8S,TD,TH two pairs
+7D,7S,QS,TD,TS	2C,3C,7C,JC,KD two pairs	P1Win
+2D,3C,4H,8S,JD	2S,4D,AC,AS,TD one pair
+4C,4S,6C,AH,KS	6H,7D,8C,9H,AS one pair	P1Win
+2C,3C,5S,9S,QS	4D,4S,5D,AC,KD one pair
+2C,2D,JS,KH,TS	5D,8C,AS,KC,QH one pair	P1Win
+3H,6C,8S,KD,TH	6H,7S,9S,AC,KH high card
+6C,6H,7S,AH,QS	2H,2S,4H,5D,5H two pairs
+2C,2S,5H,JC,QD	6S,7D,AS,JD,QC one pair	P1Win
+6C,8H,AS,KD,TC	2C,7D,9D,9S,JH one pair
+2H,4C,6C,8S,AH	3H,7C,TD,TH,TS three of a kind
+4S,6C,KD,QH,TS	7D,8D,9C,9D,AH one pair
+5C,6D,JS,QC,QD	2H,5D,8C,9C,KD one pair	P1Win
+3C,6S,AD,JH,QH	6D,6H,8S,AH,KC one pair
+3D,4C,5S,7C,7S	3C,3S,5H,6S,JC one pair	P1Win
+3C,3S,5H,7C,QH	4C,8C,9C,KD,TS one pair	P1Win
+3S,5H,7H,7S,QD	7C,8C,JC,KD,QH one pair	P1Win
+2S,3C,4C,KD,KH	2C,6S,7C,AC,TS one pair	P1Win
+2C,3C,4C,6H,KH	4D,5H,5S,7S,QD one pair
+4D,7C,8S,QD,TS	3C,6H,9D,KD,KS one pair
+4C,4D,7S,QS,TS	3H,8D,9S,QD,TC one pair	P1Win
+3C,6S,AC,QH,TS	6H,8S,9D,9H,QS one pair
+3S,4S,5D,7S,JS	2D,6C,6S,QH,TH one pair
+4C,4H,5D,AS,JS	3D,8S,9C,AC,TS one pair	P1Win
+3S,5C,6S,7C,9C	3C,6H,AD,AS,QS one pair
+3H,6S,7H,8C,9S	7C,9H,AS,JD,KH high card
+3D,3H,4D,6C,7S	2H,7C,9C,AC,TH one pair	P1Win
+3H,4H,5S,AC,TC	8D,9C,9H,9S,TH three of a kind
+4D,5H,6C,8D,9H	2H,3S,5D,6S,QD high card
+4C,4D,5C,JD,QS	3H,8C,AC,QH,TH one pair	P1Win
+3C,5S,7H,AD,QC	4C,4H,6D,JD,KS one pair
+3H,9H,AH,KS,QS	2H,2S,5H,JH,JS two pairs
+2H,5S,6S,TH,TS	3C,3S,5H,JS,KS one pair	P1Win
+2D,3D,7H,9S,KC	6D,7D,JH,JS,TD one pair
+2C,8C,8H,AC,JS	2D,7S,JC,JH,TH one pair
+2H,3D,5D,8H,9S	9C,AH,JC,KD,TC high card
+2H,6D,9D,JC,QD	9S,KH,QH,TH,TS one pair
+2C,4S,5H,8D,JD	3H,9C,KC,TC,TH one pair
+3D,4D,7D,9H,AS	2H,3H,7S,KH,TH high card	P1Win
+2S,4H,7S,JS,KS	2H,8D,8S,QD,TS one pair
+5S,6H,8H,JH,KS	2S,3S,6S,AC,QC high card
+8H,AD,AS,JC,QS	4C,4D,6C,KH,QD one pair	P1Win
+2S,3D,9S,TD,TS	5C,6S,8D,KS,QS one pair	P1Win
+3C,4S,6D,KC,QC	AD,JH,KH,QD,TH straight
+2S,4D,9H,AH,KS	7C,8D,JC,JH,QS one pair
+2D,3C,6C,8H,TH	2S,3S,KS,QD,QH one pair
+4C,5D,6H,9S,TS	9D,JD,JS,QD,TD one pair
+5H,8H,8S,KH,KS	4S,7C,AD,KD,TD two pairs	P1Win
+2C,5S,7C,AS,JC	5H,6C,7D,8S,9C straight
+6S,9S,KH,QD,TS	3C,5S,KC,QH,QS one pair
+3C,3H,5C,7D,KD	6H,7H,AS,JD,JH one pair
+5C,8H,9D,9H,KC	2S,4D,4S,AD,KS one pair	P1Win
+2S,3S,8D,JD,QD	5H,5S,6S,7C,TS one pair
+3S,6D,9S,KC,TD	5C,6H,8D,JD,QD high card
+5H,8D,9D,KD,TS	4C,6H,7D,QC,TD high card	P1Win
+4S,6D,9D,AH,JD	9H,9S,AS,QD,TD one pair
+2D,2H,5S,6H,9C	7D,9S,QC,TC,TD one pair
+2C,2H,3S,KS,TS	7D,8S,9C,9D,JS one pair
+3C,5D,6C,6D,KC	6H,7S,8S,AS,QS one pair	P1Win
+2H,4C,8D,9S,JH	8H,9H,AD,KH,TH high card
+2S,5C,AS,JS,QC	2C,3H,6H,7H,KD high card	P1Win
+2S,3S,8D,8H,QD	2C,5C,6D,AH,TC one pair	P1Win
+3H,8S,JD,JS,TS	5D,6H,JC,KC,TD one pair	P1Win
+3H,5D,6S,QS,TC	4H,7C,7D,AH,JC one pair
+2H,5D,7C,8H,9C	2C,5S,9H,JH,KH high card
+3S,6S,7H,9C,TH	4C,AC,JD,QC,QD one pair
+2H,5D,7D,9S,KC	2D,3S,AS,KH,QS straight
+2H,2S,4S,5C,7D	4D,9S,QH,TD,TH one pair
+3S,4H,6D,6H,TS	2D,5S,8H,9D,KS one pair	P1Win
+3S,4H,5C,9H,KS	5D,6H,6S,JS,KH one pair
+4C,8C,AS,JC,KC	AH,KH,QC,QD,TH one pair
+2C,5H,6S,9S,KH	3C,4D,7H,JC,TC high card	P1Win
+4S,5S,6S,8D,JD	2H,4C,4D,7H,7S two pairs
+5D,7H,9C,9H,KH	5H,7C,7S,TC,TS two pairs
+4C,4S,8D,QC,TS	3D,7C,9H,AD,JS one pair	P1Win
+3H,5C,5D,8C,QS	4S,9D,AH,JS,KC one pair	P1Win
+8S,JD,QS,TH,TS	2D,JH,JS,KH,QD one pair
+5D,6S,9H,JD,QC	2C,3S,8H,9S,TS high card	P1Win
+2S,4C,7H,AD,JC	2D,3D,4H,5C,6D straight
+2C,4H,7S,8C,JS	3S,9C,AD,QD,TD high card
+4C,6H,9H,JD,TS	3C,6D,7D,AS,QD high card
+4C,5D,6S,7C,AS	4S,5C,5S,JS,QC one pair
+3C,6S,7C,9S,KD	5S,7D,JH,JS,QD one pair
+2C,4S,7S,8S,JH	3D,5D,7H,AD,QH high card
+2H,4H,6H,8D,TD	2D,5D,7C,AD,KH high card
+2C,3S,5H,QD,TS	2S,5C,AH,KH,TD high card
+4D,5D,8C,AS,KC	2H,2S,6C,7C,9H one pair
+JS,KD,QC,QS,TS	2C,5D,AD,JH,KH one pair	P1Win
+3S,5H,6C,9H,KC	2H,3H,7D,7S,AD one pair
+7S,8S,JH,JS,KD	2H,2S,7C,7D,9H two pairs
+2D,6S,8D,9H,QC	5H,6C,8H,AD,AS one pair
+2S,6C,6D,7D,7H	3C,5D,8C,9D,JC two pairs	P1Win
+2H,7C,7H,9C,JD	3S,4S,AD,KD,KH one pair
+4D,9H,AS,JD,QH	5H,KD,KH,KS,TS three of a kind
+3D,3S,4C,5S,8H	7D,7S,AD,KC,TD one pair
+5S,8H,8S,JC,JS	4D,5D,9C,KC,TH two pairs	P1Win
+2C,5S,7C,9C,QD	5H,8D,JS,KH,QH high card
+2S,3D,AD,KS,TD	3C,5D,7S,KC,TC high card	P1Win
+2S,4C,6C,AD,QS	5C,9S,QD,QH,TH one pair
+2D,2S,8C,AD,QS	6C,JC,JD,KC,KS two pairs
+2H,4D,5D,8D,JS	7D,7S,QD,QH,TS two pairs
+3S,6S,7H,8C,8S	6C,8H,9D,9S,QS one pair
+2S,4S,5C,QD,TC	4D,6D,6S,QS,TH one pair
+3S,5C,6H,8D,9D	4C,7C,7D,TC,TD two pairs
+5S,6S,7H,AH,AS	3H,4C,5H,AC,KD one pair	P1Win
+8D,8S,AH,KS,QS	2C,5D,6H,7D,AD one pair	P1Win
+2H,6H,9H,9S,QS	2D,5D,8S,9C,KD one pair	P1Win
+5S,7D,JH,QC,TS	7S,9H,9S,AC,TH one pair
+3H,4D,6S,7H,KC	4S,5C,6D,QD,TS high card	P1Win
+2S,3H,7C,QD,TD	4H,7H,7S,9D,JH one pair
+3D,4H,5H,KS,TC	2D,2S,6D,7D,AS one pair
+3C,3H,7H,8H,TD	9C,AD,KC,KH,TH one pair
+2C,4C,9D,9S,TC	2H,3C,5C,9C,JD one pair	P1Win
+3H,5D,AC,AD,TS	6H,6S,8C,8D,QC two pairs
+2S,3S,7H,JD,TS	4C,5S,8D,8S,QH one pair
+3C,4S,6C,AC,KH	2D,2H,3D,7C,8S one pair
+2H,4H,6C,8S,TH	3H,4S,7S,8H,9S high card	P1Win
+2C,4C,5C,7C,9C	4D,5D,AS,KD,QH flush	P1Win
+4H,7D,9H,AS,TS	2H,5D,8C,8D,9S one pair
+2H,AC,AD,KD,QC	2D,3S,7S,9S,AS one pair	P1Win
+2H,6D,8H,QC,TC	3C,5D,KH,QD,QS one pair
+2S,4C,JD,QS,TH	3S,5S,7H,AD,AS one pair
+3D,3S,6C,7H,JS	6D,9S,AC,AS,QS one pair
+8C,9C,AS,TC,TS	6C,6H,8D,8S,9D two pairs
+4D,7C,9C,JD,KC	3S,6D,8C,AS,KS high card
+3H,6S,8D,TC,TS	3S,7C,9S,AS,KC one pair	P1Win
+4H,4S,8C,8S,QC	3S,6C,AC,AH,TC two pairs	P1Win
+2H,4D,5C,7D,AS	6S,AD,QC,TC,TS one pair
+4S,8S,QC,QD,TH	3D,4H,AH,JH,TS one pair	P1Win
+2C,2D,3H,5C,9S	3C,7D,9D,QD,QH one pair
+6C,7S,9H,KC,KD	2D,3C,4D,AS,TC one pair	P1Win
+3D,4D,9D,JS,KS	3C,3H,7D,QC,TH one pair
+2H,3H,5S,8D,9D	3C,4C,4H,8C,TH one pair
+4S,6S,JC,JD,TH	2D,3D,4C,4D,6C one pair	P1Win
+2D,3S,4H,AC,TS	2C,2H,6H,6S,JH two pairs
+8S,AD,AH,TC,TD	6S,7S,9S,AC,JH two pairs	P1Win
+4S,6C,8D,JD,KC	5S,7H,9H,AH,QH high card
+5C,8D,JH,KD,TS	3H,5H,AD,AS,JS one pair
+2D,3D,4H,6C,8C	5C,5D,7S,8S,AD one pair
+4S,5D,7S,9C,TD	4C,5H,6C,8C,8S one pair
+5C,9C,AS,JS,QH	3D,7C,JC,QC,QS one pair
+9C,JC,JH,KH,QS	2C,3D,AD,QC,TS one pair	P1Win
+5C,5D,9S,AC,JH	4C,8C,JD,KS,TS one pair	P1Win
+2D,9H,AS,KC,KH	2C,3D,4D,5S,6H straight
+2D,8S,AH,JC,TH	3D,3S,7S,8C,QH one pair
+4H,8H,AS,JC,QD	3C,6D,9S,KH,KS one pair
+4S,7D,9C,9S,QH	4D,7H,AC,KD,KH one pair
+6D,9C,AD,AH,TH	4H,9S,KD,KS,QH one pair	P1Win
+6H,7C,9C,QD,QS	5S,6D,6S,9D,JH one pair	P1Win
+2H,5H,8D,AH,QD	4H,5S,JC,KH,KS one pair
+2S,5C,8D,9C,JS	3D,8C,AH,AS,KC one pair
+2H,8H,9S,JD,QS	4C,5C,5S,8C,TH one pair
+2C,2S,8C,QC,QS	3S,4C,9C,KH,KS two pairs	P1Win
+2D,5D,8S,AD,AH	2C,8C,JS,KS,TD one pair	P1Win
+5H,5S,8H,QC,TC	4H,6H,9H,9S,JD one pair
+3C,4H,9H,AH,JH	2H,4C,4S,8D,AC one pair
+4D,6D,7D,8S,TH	7C,7S,QD,QS,TC two pairs
+2D,5H,6D,JD,KH	4H,4S,JH,JS,QD two pairs
+3S,4S,7S,9C,JH	4H,8C,QC,TC,TS one pair
+4D,9D,JH,QH,QS	2C,2D,3S,6C,7C one pair	P1Win
+4H,5C,5H,9S,JD	2D,4C,9D,AH,TS one pair	P1Win
+2D,5D,JH,KS,TS	7H,8D,AH,AS,JS one pair
+8C,AD,AH,JS,KS	2C,5S,6C,8H,TH one pair	P1Win
+2H,5D,AC,AD,KS	3D,6H,8H,QC,TS one pair	P1Win
+4H,5H,6D,9C,TS	4C,6S,JD,JH,JS three of a kind
+2C,4H,6D,JH,QH	3C,4C,5D,KC,QS high card
+4H,6C,6H,6S,7H	2S,8C,8S,KH,QC three of a kind	P1Win
+3D,3H,4H,5D,KS	3S,4D,AD,TD,TS one pair
+2C,5S,7C,7D,8S	6C,7S,8C,JS,KS one pair	P1Win
+2H,3S,5C,5D,7C	5H,6D,9C,9H,QD one pair
+2S,8D,9S,JS,KD	8C,9D,AC,TD,TS one pair
+2S,5H,8C,AC,QD	3C,4S,7C,9H,KS high card	P1Win
+3H,8S,9C,AS,KH	4D,4S,AD,JS,QS one pair
+2S,4D,AD,AS,TD	4C,5H,9H,JC,QS one pair	P1Win
+2D,4H,5D,7C,TC	3S,4S,6C,JS,KC high card
+2C,4C,5D,9H,AC	3D,8S,JD,QH,QS one pair
+2C,3C,6H,8S,QH	6D,AC,AH,KD,TC one pair
+3S,4S,6C,QC,QS	5C,8D,AC,AD,KH one pair
+4C,5S,AC,AS,KH	2C,5C,8D,9C,QC one pair	P1Win
+3C,8D,8H,JD,KH	5C,9C,9D,QD,QH two pairs
+2C,4S,7H,8C,TS	5H,9C,JC,QH,TD high card
+2C,4S,7C,JS,TH	6C,7S,AS,JD,KS high card
+7C,7H,9H,JH,TC	3D,4D,5D,5H,6D one pair	P1Win
+2C,2H,9D,JH,QD	3D,5S,AD,KS,TD one pair	P1Win
+3S,4D,JD,QH,TH	4H,6S,7D,KS,QS high card
+5S,8D,8H,KS,TC	2D,2S,4C,AD,JH one pair	P1Win
+2D,3S,5S,JH,TC	4C,9D,9S,KD,QS one pair
+3H,9D,AC,AS,KH	6C,6S,9H,KC,QD one pair	P1Win
+3D,5C,7D,7S,9H	4H,6S,8H,KC,TD one pair	P1Win
+3C,7H,8H,QD,TC	4D,6C,6S,7S,QH one pair
+4C,6C,6D,AD,QD	5D,7D,9D,KS,TS one pair	P1Win
+2H,7S,9S,JD,JH	5D,8D,8H,KH,TS one pair	P1Win
+2D,4C,7D,9D,9S	5H,6D,6S,AC,QD one pair	P1Win
+6D,7S,JC,JH,QD	2H,4C,6S,7D,QS one pair	P1Win
+2H,8C,JH,KD,TD	2C,5C,7S,JS,QS high card
+4H,5H,JH,QD,TC	3S,5D,5S,8S,KH one pair
+2C,5D,7C,KH,KS	6D,6S,9C,JC,JH two pairs
+5H,9C,AH,JD,JS	2H,4D,5S,6H,KC one pair	P1Win
+3C,6H,AS,QC,TH	7C,8C,8S,9C,TD one pair
+2C,9C,KC,KH,QD	3C,4D,7S,9H,TS one pair	P1Win
+2S,8C,9C,QC,TS	3C,3S,9S,QD,TD one pair
+4D,9D,AH,JH,TH	2S,6S,JD,JS,QH one pair
+6C,7D,9H,KD,QD	5D,6S,7H,8H,AH high card
+2H,3C,4S,5H,8H	4H,7S,AC,QH,QS one pair
+3C,4H,7S,9S,QS	3S,7C,9D,AH,KS high card
+2D,2H,5S,6S,AD	3C,4S,5H,8C,TC one pair	P1Win
+4D,6S,JS,QH,TS	6D,8S,AS,JH,KS high card
+2C,2S,5H,8S,TD	6C,AS,KC,TC,TS one pair
+2H,3H,8H,KC,TS	4C,5S,7C,TD,TH one pair
+7H,7S,AD,KD,KH	2D,5D,5H,5S,9C three of a kind
+3D,7S,8C,9S,AD	7C,9C,KD,KS,QC one pair
+3C,4D,8C,9S,QC	2C,5C,6C,AS,QD high card
+2H,7S,8S,JD,KC	2S,4D,5C,8D,AC high card
+2S,3D,9D,QH,TC	3C,3S,9H,KS,TD one pair
+2C,6S,7H,AC,KD	3S,5H,6C,6H,8C one pair
+6S,8S,KH,QH,TC	4D,4H,5D,TH,TS two pairs
+2C,4H,6H,8C,JS	2H,3D,7D,AC,QD high card
+2D,5S,6S,KC,QS	3H,4C,4H,JH,TD one pair
+5H,7H,7S,8H,KH	6H,7D,KD,QS,TH one pair	P1Win
+5H,7C,AD,KD,KH	3C,5S,6C,6D,TD one pair	P1Win
+5H,7C,8C,9C,JD	2H,3S,7H,KC,KH one pair
+4D,4H,7S,8S,AD	3D,5S,7H,QS,TH one pair	P1Win
+8D,9S,KD,KS,TC	2S,5C,6D,AD,JD one pair	P1Win
+2H,6C,7H,8H,QD	6H,7C,9D,9S,TC one pair
+4C,6C,6D,7C,8D	3C,JH,JS,KH,TH one pair
+3S,5S,8S,9H,JS	7S,8H,AD,AS,KD one pair
+2C,5H,7C,JH,KC	9C,9S,AD,AS,JS two pairs
+2C,6S,AC,AD,QD	3H,7C,KD,KS,TH one pair	P1Win
+4C,4H,8H,9D,JD	7S,8C,KC,KH,TS one pair
+2H,3S,5S,6H,7S	5C,6D,7D,AD,KS high card
+5S,7H,8C,9H,QS	2H,6C,7D,7S,TD one pair
+5S,9D,AC,QS,TD	2D,3D,4D,KC,TC high card	P1Win
+2H,7D,JD,QD,TD	3D,4C,5D,7H,KC high card
+3H,4C,8S,KD,QH	5H,5S,9H,QC,TC one pair
+5H,9C,QD,TH,TS	2C,5C,9H,AH,QH one pair	P1Win
+3C,4D,6C,6S,AC	2C,2H,3D,TD,TH two pairs
+4D,5D,9C,AC,QC	6D,8C,8D,AD,KC one pair
+3C,4H,8D,AC,AD	7S,8H,9S,JC,TD straight
+2D,4H,9H,JS,QH	KD,KS,TC,TD,TH two pairs
+5S,6S,8D,9S,TH	5C,5H,8S,AS,KH one pair
+2S,5S,6S,9S,JD	5D,7H,7S,8S,9D one pair
+4C,5D,8C,9D,AD	2C,7D,KD,TC,TS one pair
+4D,5C,8S,KC,QS	4S,8D,JD,KD,KH one pair
+5C,7D,AD,AS,QH	2H,7C,7H,9S,TC one pair	P1Win
+2S,7S,8S,JD,KH	5D,6C,6D,AD,QC one pair
+3S,6H,8C,8H,9H	4H,AH,JS,TC,TD one pair
+2C,2D,4D,7H,TS	5D,7C,9C,QC,TH one pair	P1Win
+5D,6C,8H,QC,TS	4S,5C,5H,9H,JH one pair
+2D,7H,AS,JS,QC	2H,4C,4H,8D,8S two pairs
+3D,6S,AC,JS,KD	3C,4S,7H,KC,TH high card	P1Win
+5S,6S,KH,QH,QS	3C,3H,3S,4H,QD three of a kind
+4H,7H,8C,AS,KH	3D,5S,6S,9C,TS high card	P1Win
+3H,5S,7C,9C,QD	2C,3D,5H,AC,AD one pair
+2D,4C,JH,TD,TS	3H,3S,7S,AD,KH one pair	P1Win
+4C,4D,5H,6S,AS	2D,3C,6H,JC,KD one pair	P1Win
+2D,3H,6S,8C,TH	4S,5H,AD,AH,QH one pair
+2S,7C,7H,9H,KC	3H,5C,5S,6D,JC one pair	P1Win
+3C,4H,9C,QD,TC	5S,6D,9H,JH,TD high card	P1Win
+5C,5D,6C,6S,7C	4S,6H,7H,9H,AH two pairs	P1Win
+2C,2H,7D,AD,KC	2S,3S,4C,7H,9S one pair	P1Win
+3S,4C,6S,8S,TH	AD,AS,JH,KS,TD one pair
+4D,4S,5C,AD,TD	5D,6S,7D,9C,TC one pair	P1Win
+3S,4D,4S,5S,8H	3D,3H,5C,6H,AC one pair	P1Win
+3C,4S,9H,AC,QS	4D,5H,8S,9D,QH high card	P1Win
+5H,6C,AC,JC,TS	7C,8C,9C,JD,QD high card	P1Win
+2D,8H,8S,9C,JD	3C,6H,8D,QC,QH one pair
+2H,5H,6H,JS,KS	3H,6D,7C,QH,QS one pair
+3H,4S,7H,QC,TC	2H,3S,8C,JS,KH high card
+4C,5S,8H,9H,AH	3H,7S,AC,JC,JD one pair
+2D,3C,4C,5S,6C	3D,3S,4S,JD,QS straight	P1Win
+2D,5H,AH,KS,TC	6D,6H,7H,8C,AD one pair
+3C,6C,7C,7S,JD	6D,8H,AH,KH,KS one pair
+3H,7D,8H,8S,AH	2D,5H,7H,9D,QS one pair	P1Win
+4H,7S,8S,AC,JD	9D,9S,AS,KS,QH one pair
+2C,5S,7S,8S,JH	4C,AH,JC,KD,QS high card
+2S,4H,8D,9H,AH	6H,JD,QH,TD,TS one pair
+3H,4H,6D,JC,QS	7S,8D,8S,9C,9D two pairs
+4C,4S,5H,9S,TD	3D,3H,7H,8C,8D two pairs
+2C,2S,3S,KH,QS	3C,4S,7S,QD,TD one pair	P1Win
+4D,5S,7C,KH,TD	4C,6C,7H,AC,AS one pair
+2S,5H,6D,9H,JD	2C,2H,8S,QS,TD one pair
+2S,6H,7S,9H,TS	4C,4H,5D,5S,JC two pairs
+2C,3S,4H,5H,7D	6D,8H,JC,JS,QH one pair
+3S,4C,7C,QD,QH	5S,8S,AD,TH,TS one pair	P1Win
+2S,9H,JC,TC,TD	3D,3S,7D,QH,TH one pair	P1Win
+4C,5C,7D,8S,JH	3H,3S,6S,8H,KC one pair
+3H,JC,KH,QH,TC	2C,5H,6H,AC,TH high card
+2C,2H,9D,AS,QS	2S,6C,6S,8C,8S two pairs
+4H,7D,9H,QC,TH	3C,7S,AC,KD,QS high card
+4D,5S,6S,8H,JH	3S,9S,AS,KS,QC high card
+2D,6S,7S,JD,TC	3H,7D,9H,KC,KD one pair
+2H,4D,4S,7C,KH	3H,7D,JS,KC,QD one pair	P1Win
+3C,4C,9D,AS,JC	4D,6C,8H,JS,QD high card	P1Win
+3S,4C,6C,AH,JS	3D,6D,9C,9H,JH one pair
+2D,5S,7H,8C,9H	2S,6H,9C,KS,TC high card
+6C,6H,7H,8C,AD	3D,5D,AS,KH,TH one pair	P1Win
+3S,8C,8S,KS,TS	4D,4H,5S,6C,9S one pair	P1Win
+4H,4S,5C,7D,9H	2D,2H,9D,JH,KC one pair	P1Win
+5C,9D,9H,JS,TC	5H,6S,7S,JC,KH one pair	P1Win
+4D,7C,8H,9H,JC	2H,JD,KH,TC,TD one pair
+2C,2H,6C,8H,KH	5H,6H,9D,QH,QS one pair
+2S,3D,7D,AC,QD	2D,8D,JC,JD,JH three of a kind
+2C,2D,2H,7H,JC	3C,4H,8D,KD,TD three of a kind	P1Win
+3S,4H,6D,8D,TS	3D,3H,6H,TD,TH two pairs
+3S,AC,JC,JH,QH	2C,7H,8S,9H,QC one pair	P1Win
+4S,7H,8S,QS,TD	2H,2S,4D,5D,9C one pair
+2S,3D,3H,QC,TS	6H,8H,JC,KC,KS one pair
+5D,7D,8C,JD,TC	3D,6C,8D,9S,AC high card
+5D,6C,6H,8H,JH	2C,4H,8D,8S,AD one pair
+2C,2D,3S,4H,9D	3C,5D,AS,TC,TS one pair
+4D,5H,KS,QS,TH	2H,3D,4S,6C,AD high card
+2C,5C,5S,6H,KC	2D,3C,4D,9H,9S one pair
+3H,4C,JD,QH,TH	5S,8S,9H,AC,AH one pair
+2H,6S,7D,9S,TD	4C,4H,8H,9C,QS one pair
+3C,4H,5D,6H,8C	6S,9C,KC,QD,QS one pair
+2D,3S,9H,KD,TC	4H,4S,6S,8C,JS one pair
+2S,4C,6H,8S,QS	3H,5D,8C,KH,TH high card	P1Win
+2C,3S,5S,7S,KH	6C,7H,8D,9D,QD high card	P1Win
+2D,8H,AC,KH,KS	6C,7H,JS,KC,TS one pair	P1Win
+5C,9C,KS,QC,TD	5H,6C,7C,9S,AH high card
+3H,4D,4H,5D,6S	7C,7S,AH,QD,TD one pair
+2H,6S,7D,QC,TC	3H,7S,9D,AH,TS high card
+5H,9S,KS,QD,TH	6H,7C,7S,8C,TD one pair
+2D,4D,5C,QC,TH	4H,7D,9C,AH,JD high card
+3H,4H,6H,8D,AH	2C,2H,9H,QC,QH two pairs
+2D,4C,6H,AD,TS	4H,7S,QS,TD,TH one pair
+2H,3C,3H,KD,QS	5D,8H,JD,QC,TC one pair	P1Win
+9S,JC,KS,QD,TH	2D,8C,8D,9C,KD straight	P1Win
+3C,4D,6D,KD,QD	8D,8S,AD,AH,QC two pairs
+2S,3H,3S,8H,9D	4C,6H,7C,KC,KS one pair
+3D,5C,7D,9S,TH	2C,4D,6H,7S,AC high card
+2D,3D,4D,5C,JD	4C,5H,6D,9H,KH high card
+2H,6C,7H,AS,TD	3D,4C,4S,KS,QD one pair
+3C,7C,AC,JC,JD	5D,8H,9S,JS,QC one pair	P1Win
+2H,5S,6S,AS,JD	3D,5H,7D,8C,JH high card	P1Win
+5S,8D,8S,9S,TC	3H,5H,7S,AS,JC one pair	P1Win
+3D,4H,5C,7D,TD	4D,5D,7H,8D,JS high card
+2S,9C,KS,QS,TD	2H,4H,5C,8S,AS high card
+3H,4H,7D,7S,TH	2S,5D,JD,KC,KD one pair
+4C,4S,7H,8H,JD	4H,5S,6H,JS,QH one pair	P1Win
+2C,3H,5S,8C,QS	2S,6C,AD,QC,QD one pair
+3D,4H,8C,JD,TC	2H,2S,5S,AC,AD two pairs
+2C,2D,5D,AD,JS	3D,4C,4S,9D,JH one pair
+5D,5H,6H,7S,8D	4D,9D,JD,KS,TD one pair	P1Win
+2S,3D,6D,9C,AS	5C,5S,7D,8H,JD one pair
+3S,5H,6S,7C,8S	7H,7S,AD,JD,TC one pair
+2S,4D,9D,AC,TS	3H,6C,8D,JD,QD high card	P1Win
+2C,3C,9S,AC,KH	3D,5D,5H,6H,8D one pair
+2D,3D,6S,AS,KS	2S,4C,7C,7H,KH one pair
+2H,3S,5C,AC,JC	2D,4D,5H,7S,QH high card	P1Win
+6H,8C,AS,JD,TS	2C,5D,5S,8S,JC one pair
+6C,7H,7S,QC,QH	2D,2S,7C,8H,JD two pairs	P1Win
+2C,2H,2S,JC,QD	2D,5D,9C,JD,JH three of a kind	P1Win
+5C,7C,7D,8S,9C	6C,6D,8D,9S,JH one pair	P1Win
+2C,3S,5H,6S,AD	4C,7S,9D,KH,KS one pair
+2C,5C,6C,7H,TH	3S,8D,9D,AH,QC high card
+5H,5S,6H,KC,TC	3C,6D,8S,AH,TH one pair	P1Win
+4H,9C,AD,KD,TD	4S,5D,6H,7D,9S high card	P1Win
+5C,5H,6D,7H,AS	4C,4H,9D,KD,KH two pairs
+2S,3C,5C,6C,JD	2H,3H,7D,9D,QS high card
+2S,6S,7S,AC,JS	5C,6H,AD,QD,QS one pair
+5H,7H,QC,TC,TH	3D,3S,6D,7C,KC one pair	P1Win
+3D,4H,8H,9S,QC	2C,3S,5C,JC,KS high card
+2C,4S,6H,6S,8S	3D,3H,3S,9H,JS three of a kind
+2D,4D,4S,8C,8H	7D,9D,9H,AH,TS two pairs	P1Win
+2C,4C,8D,9H,9S	3D,5S,6D,7D,AS one pair	P1Win
+3H,4C,6S,7H,8C	5H,9C,9D,AH,JC one pair
+2S,5S,7C,8C,JD	3D,3S,4D,6S,7D one pair
+3C,4S,5D,7D,KC	3D,3H,4H,7H,JD one pair
+4D,4H,9C,9H,TH	6D,7S,8S,9S,QD two pairs	P1Win
+2H,4S,8S,AC,AD	2C,7D,8C,AH,TC one pair	P1Win
+3C,9H,AD,KS,TS	3D,8C,8H,JD,TC one pair
+2C,3C,7D,8D,QC	6C,7C,9C,9H,JD one pair
+5D,6S,AH,JH,JS	2C,AS,JD,QC,TD one pair	P1Win
+2D,2H,5D,9H,KD	3S,7D,AH,TC,TS one pair
+5D,8H,AH,AS,TD	5H,6S,AC,QC,TC one pair	P1Win
+4D,4S,7H,8D,KS	2H,3H,6H,9C,TC one pair	P1Win
+3H,4S,KD,QD,QH	3D,7S,8C,8H,TD one pair	P1Win
+8S,AH,JD,JS,TC	2D,4D,KH,KS,QS one pair
+3C,AD,JC,JS,KD	2C,4S,9H,KH,TH one pair	P1Win
+5S,9S,JS,KS,QC	2S,7C,AS,JD,QD high card
+2D,3S,5S,KC,QS	5D,8H,9H,AC,KS high card
+2C,6H,9C,AD,TC	5S,6C,6D,7C,JD one pair
+2C,KH,QD,QS,TD	2S,3H,8S,AH,QC one pair	P1Win
+9D,9H,JH,QH,TC	2S,3C,5C,7H,JS one pair	P1Win
+2S,3D,3S,4S,6C	2C,2D,5D,QD,TH one pair	P1Win
+2D,2S,6D,6H,JC	4H,7H,AS,KH,QH two pairs	P1Win
+5H,6S,AD,KS,TC	4H,4S,7C,AC,TS one pair
+3C,4H,8C,AD,QS	2D,2H,4D,9D,KS one pair
+4S,6C,6D,9C,9D	3H,7H,8D,AC,KD two pairs	P1Win
+6C,AH,JC,JD,TS	3S,5D,6D,AD,QD one pair	P1Win
+3S,7S,JC,JD,JH	3H,4S,8S,JS,QC three of a kind	P1Win
+2C,5C,AD,JD,TH	2H,7H,7S,9S,JS one pair
+3S,4D,8D,JH,QC	2C,6H,AS,JD,KC high card
+2C,5H,5S,AC,KD	2D,7H,AH,JH,QD one pair	P1Win
+8D,8S,JC,QH,TC	5C,5H,6C,8C,AH one pair	P1Win
+3H,8S,JH,JS,QD	3C,3S,4H,5C,6D one pair	P1Win
+4C,4S,5H,6D,AH	3H,5S,7C,8D,JD one pair	P1Win
+2H,3H,8H,AH,JS	3C,4H,7D,KD,QC high card	P1Win
+2H,5H,6S,8H,KD	2D,3C,7S,8S,QD high card	P1Win
+2S,7S,AH,KC,QC	4C,6D,8D,QS,TC high card	P1Win
+2C,3S,5S,9H,QD	2H,6C,7C,7S,9D one pair
+3C,5C,5S,6C,JD	3S,5D,JC,KS,TS one pair	P1Win
+2S,5S,6S,7C,KS	2D,2H,5H,QS,TC one pair
+5H,6S,7H,AS,TS	2H,3C,9D,9S,KD one pair
+3S,4H,4S,JS,QS	2S,6S,7C,9D,AC one pair	P1Win
+2H,5H,7C,8C,JH	5D,KH,QC,QH,QS three of a kind
+3H,3S,7C,KC,TD	5H,8C,8D,8S,KH three of a kind
+3C,4H,JD,KH,TS	5S,7H,AS,JS,QC high card
+2C,4D,8D,9D,AH	2D,6C,6H,6S,KC three of a kind
+2S,3S,6H,7H,9D	3D,4D,8H,KD,KH one pair
+9C,AC,JH,KH,TC	3S,4D,5H,JD,TD high card	P1Win
+4C,4H,7S,9D,AS	2S,7D,9S,KH,QS one pair	P1Win
+3S,8C,8D,8S,KS	2H,5C,5D,JC,KH three of a kind	P1Win
+2C,4D,8S,KC,QH	6H,9D,AC,JS,QC high card
+7C,8C,8S,JD,JS	4C,4S,6S,9C,AC two pairs	P1Win
+2C,5D,7D,JC,QH	2D,4C,8S,JH,JS one pair
+4C,7S,JH,JS,TS	4S,5H,KC,KH,QD one pair
+2D,6S,8C,8D,QD	5S,9D,AC,QH,TD one pair	P1Win
+3C,3D,JS,QC,QH	4H,5C,7H,8S,KH two pairs	P1Win
+2C,5S,7C,8S,JC	2H,3H,5D,KC,QC high card
+4H,5S,6H,8D,KD	3D,6D,AH,QD,QH one pair
+2S,4D,6C,7S,KS	5H,AC,JD,QS,TS high card
+2D,5D,7C,QS,TC	6C,AC,JS,KC,QC high card
+2C,3H,4D,KS,TS	4H,7S,8S,9S,AD high card
+4H,5H,9H,QD,QH	3S,4D,AD,JC,KH one pair	P1Win
+4D,6D,8D,AC,KC	2C,2D,4C,JD,KH one pair
+2C,2D,3H,9H,AH	6D,7D,9C,KS,TC one pair	P1Win
+3H,5C,7C,8C,KD	2S,4S,5H,AH,AS one pair
+3H,4H,JD,KD,TH	3S,5C,AC,KH,TC high card
+6D,7H,7S,AH,QC	2D,6H,AS,JD,TD one pair	P1Win
+5D,7H,9S,JH,TC	5S,7D,AS,JC,KH high card
+2H,6H,8C,AD,TH	6C,6S,9H,KD,QD one pair
+3S,4D,9D,KC,QH	2C,4H,9H,JH,JS one pair
+4H,7H,JC,KH,TC	3H,7D,7S,9S,QS one pair
+6C,7D,7H,AD,JH	3H,3S,4D,4H,QH two pairs
+2H,5C,6C,AS,JD	3C,4D,JH,QC,TC high card	P1Win
+3H,4C,6H,AC,JD	7D,7H,9H,AD,JC one pair
+2C,4H,8C,TC,TS	2H,6S,9S,JD,KS one pair	P1Win
+3H,4C,9S,QC,QS	6D,9C,9D,9H,KC three of a kind
+2C,5C,8C,AD,QH	8D,8H,JC,QD,TH one pair
+2C,2S,9C,QC,QD	3S,4D,8D,JH,QS two pairs	P1Win
+2C,3S,7C,7S,9D	3C,9H,JC,TC,TD one pair
+3C,4C,5C,8H,TS	2C,4H,6S,7C,8D high card	P1Win
+2H,4H,7H,KS,TC	2C,3S,AH,AS,QS one pair
+2C,2D,2H,4S,8C	3S,4C,5S,6S,7D straight
+3C,5D,QC,TD,TH	AS,KC,KD,KS,QS three of a kind
+4D,9H,AH,KD,KS	4C,5C,6H,7S,JC one pair	P1Win
+4H,5C,KC,QS,TC	2H,9S,AH,JC,QH high card
+3C,3H,4S,5H,9H	2H,8H,JH,QC,QD one pair
+2C,3D,5D,7H,AS	4C,6H,6S,7D,JH one pair
+9C,9H,AH,JD,JS	3H,8H,8S,KS,QH two pairs	P1Win
+3S,4D,AC,QC,TS	3D,8S,9H,AD,AH one pair
+3H,7H,9C,9S,QS	5H,AC,AH,JH,JS two pairs
+2H,3C,8D,AC,JD	4D,5S,7H,8H,9C high card	P1Win
+6C,7C,9H,JH,JS	4H,7H,8C,9D,9S one pair	P1Win
+2D,4D,6H,9S,AS	9H,AD,JH,JS,QD one pair
+6H,7S,AH,JH,KH	2C,5S,6S,7H,TD high card	P1Win
+5H,5S,6S,8H,JH	4C,9D,9S,QC,TC one pair
+2C,3H,5H,7D,KD	4D,7H,AS,JS,QD high card
+6C,8H,QH,TH,TS	3C,3H,5H,9C,9D two pairs
+3H,5D,AD,JS,KH	5C,9S,AC,AS,KC one pair
+2C,8C,JC,KH,QS	2D,6D,AH,KC,TC high card
+2S,3H,4D,7C,9D	6D,7D,8D,KH,KS one pair
+2S,9H,AC,JH,TC	3H,3S,5S,8H,QC one pair
+3S,4C,8H,AS,KD	3H,7C,JH,QH,TS high card	P1Win
+6D,7H,7S,9D,JH	3D,3S,4C,6C,AS one pair	P1Win
+2C,2H,4C,4S,8S	5H,8C,KC,QC,QD two pairs	P1Win
+3H,3S,6C,QC,QS	2C,2D,5D,6S,9D two pairs	P1Win
+2H,2S,3H,8D,JH	2D,5C,6C,7S,AD one pair	P1Win
+5D,8S,9H,JS,QH	2H,6S,7S,AD,TS high card
+5H,6D,7H,9S,QC	4H,5C,7D,JD,KC high card
+4D,5S,9C,9H,QC	2S,4C,6S,7C,KS one pair	P1Win
+3S,4H,7C,8D,9H	5C,6H,7S,8H,JS high card
+2D,4H,6H,JS,TD	4D,5H,JC,KC,TH high card
+3H,7C,8D,AC,TH	2D,4C,4D,9S,KC one pair
+3D,7S,9C,KD,QS	4C,4H,AD,KS,TS one pair
+2S,7D,8H,9C,QH	4C,5D,7H,KD,KS one pair
+2H,2S,6S,9C,JC	5C,6C,JH,QC,TC one pair	P1Win
+7S,8H,8S,AC,KC	3D,6H,6S,JC,QS one pair	P1Win
+2D,4S,8C,JH,JS	5D,6D,6H,8H,AD one pair	P1Win
+2S,4H,6H,7D,9H	5S,7C,8H,AC,AS one pair
+3C,4S,5H,6D,JS	2C,2S,6S,9C,QH one pair
+3D,4C,5S,6S,9S	8D,8S,QD,QS,TC two pairs
+3D,5S,9C,9H,AH	2C,3S,7D,AD,JC one pair	P1Win
+3C,6S,7H,AS,TC	6D,7S,9H,KC,KH one pair
+3S,5H,6S,8H,TC	2S,7D,8C,AC,JH high card
+3S,9C,9D,JC,QD	4D,5D,8C,8H,KS one pair	P1Win
+6D,9D,AH,JD,JS	3H,8C,8H,9H,9S two pairs
+2D,4C,4D,6S,8S	4S,9H,AD,AH,TC one pair
+AC,KC,QC,TH,TS	2H,4H,6D,7S,8C one pair	P1Win
+3C,5S,9D,JS,QD	2H,9H,AH,JC,TS high card
+3H,4D,5D,9C,QH	3S,4S,5H,7D,JC high card	P1Win
+2H,3H,7C,8S,TH	8D,AC,JD,JS,TS one pair
+2H,9C,JD,KC,TD	2C,2S,5S,8C,AD one pair
+3D,4D,5H,7C,KD	6H,7D,QD,QH,TC one pair
+2C,5S,7H,KC,KD	6H,7S,AH,QC,QH one pair	P1Win
+2C,5C,5H,6H,AC	2D,2S,7C,9C,TD one pair	P1Win
+3D,4D,7C,9D,AH	4C,4H,8C,JD,KS one pair
+3C,8H,JS,QH,TH	3D,4C,AS,QC,QS one pair
+4D,5H,6D,7S,JH	3C,6H,7D,JS,KH high card
+2C,2H,7D,8S,QD	2S,5H,7C,8C,JC one pair	P1Win
+2H,8S,9D,QH,TC	6S,7C,8D,AD,QD high card
+2H,3S,7C,9H,AD	2D,4C,9S,JD,TS high card	P1Win
+2C,3S,4H,AS,QC	7S,8H,8S,TC,TD two pairs
+3S,4D,JH,TD,TH	2C,4H,5D,5S,QS one pair	P1Win
+6D,8C,QD,QH,TC	4H,4S,9D,9S,QC two pairs
+6H,8C,9D,JD,JS	3H,6S,AD,QC,TD one pair	P1Win
+3D,7C,8S,KC,TD	3S,4S,7D,8D,9H high card	P1Win
+3D,4S,6C,9D,KD	5S,AC,KC,KS,TC one pair
+3D,6S,7C,JS,QH	2D,6D,6H,8C,KD one pair
+2S,4H,5S,8S,JD	2D,5C,6S,AC,TS high card
+3C,4S,5H,5S,8C	3D,3H,7C,8D,AS one pair	P1Win
+3H,7C,AD,AS,TS	6C,6H,7D,JC,QS one pair	P1Win
+3S,4C,9S,AC,QH	4H,5D,5H,9H,TS one pair
+5C,6C,7H,7S,TD	2H,2S,5S,AD,JD one pair	P1Win
+3S,6C,7D,JD,KC	8D,8S,KH,QS,TS one pair
+6C,8D,8S,QS,TH	2C,8H,9S,AC,AH one pair
+7H,8S,KH,QH,TD	3D,4D,AH,AS,JD one pair
+2H,2S,3D,JC,TS	6C,JH,JS,KH,QC one pair
+2D,6H,7S,KC,TH	2S,8C,9D,QS,TC high card	P1Win
+3C,6S,8H,9D,KH	2C,2H,5D,6D,TH one pair
+4D,6H,7D,AD,TC	7S,8S,9H,TD,TS one pair
+2H,6D,JC,JD,JS	3D,6C,8D,AC,KH three of a kind	P1Win
+4H,5D,9S,JD,KH	3H,4C,5C,7S,QS high card	P1Win
+3C,3S,4H,5D,JD	4D,7S,KH,QH,QS one pair
+8S,AH,JD,QD,TS	2C,3S,4C,5S,6H straight
+3D,8D,AS,JD,QS	6S,7C,KS,QC,TH high card	P1Win
+2H,7H,7S,8C,QC	2D,6D,AC,KH,TH one pair	P1Win
+5S,6C,7D,7H,KH	3D,5C,7S,8C,AH one pair	P1Win
+3C,6C,7D,AD,KD	2D,4D,4S,8C,KS one pair
+2D,2S,5S,7C,8D	2C,9D,AD,AH,TD one pair
+3C,4S,AD,JH,KS	5C,7C,8C,9C,TH high card	P1Win
+4D,7C,AS,JD,TD	3C,5H,8C,9S,QH high card	P1Win
+3H,6S,8S,9C,9S	5H,AH,JH,KS,QD one pair	P1Win
+2H,4H,5S,9C,QC	7D,8C,9D,AS,TD high card
+2C,8C,9D,KD,TC	3C,3D,7S,KH,QC one pair
+4C,4D,5S,AS,QS	6S,9D,JD,KS,QH one pair	P1Win
+4C,5H,6C,6D,AH	3D,5S,7D,9H,TS one pair	P1Win
+7C,8D,9C,JD,QS	3S,6C,6S,AC,KH one pair
+5D,6D,8H,9S,JH	3S,6S,7H,AS,QC high card
+2H,5C,AD,JH,QD	2C,4H,AH,AS,KC one pair
+2C,2D,6H,9C,JH	5D,6D,9H,JS,KC one pair	P1Win
+3H,7D,9D,KD,TH	6H,6S,AD,AS,QC two pairs
+3H,4H,7D,JD,KC	3C,3D,JS,QS,TH one pair
+3H,4C,5H,8C,QD	6H,8H,AD,AS,JD one pair
+5D,8S,KD,QC,TH	5H,5S,7D,JS,TS one pair
+3H,7D,9D,KC,QS	3C,6D,7S,AH,TS high card
+4H,7C,7H,AH,QC	4D,5D,6D,AC,TH one pair	P1Win
+2S,3C,4H,8H,KD	5H,6C,JD,JH,TC one pair
+3D,4H,4S,8C,JS	7S,JH,KD,QS,TD one pair	P1Win
+4D,7C,7H,KD,QC	6S,AD,KH,TC,TD one pair
+3H,4D,5H,9H,KC	3D,6H,6S,AD,QD one pair
+6H,7C,QH,TH,TS	2C,5S,6S,KC,TD one pair	P1Win
+4D,5S,7C,JD,JH	4H,7D,AC,KD,KH one pair
+5C,6C,7D,8D,8H	8S,JD,JH,QD,TH one pair
+6C,7C,7D,8D,9D	5C,AS,JH,KD,QH one pair	P1Win
+2C,3C,4C,8C,9S	2D,4H,8D,JH,KS high card
+6C,7S,8H,JH,KH	2D,3H,6D,9D,AH high card
+4D,7H,8D,9C,TC	3C,KD,KS,TD,TH two pairs
+8D,9H,AS,JD,QD	2C,2S,9C,9D,KD two pairs
+3H,5C,7H,8D,KS	2D,5H,8C,9H,QH high card	P1Win
+2D,6C,6D,QD,TH	3H,3S,4C,AD,KC one pair	P1Win
+3C,3H,4H,9D,JS	5H,JC,QC,QH,TC one pair
+3C,3D,3S,5C,6H	2S,5S,7S,JC,QH three of a kind	P1Win
+4D,5C,5D,8C,AC	2S,3C,3H,4H,QD one pair	P1Win
+2C,9C,AH,KD,TD	4C,6S,JS,QC,QD one pair
+3S,4H,8C,QS,TC	3H,7C,AD,JC,JS one pair
+4D,5H,9C,JC,KS	8S,9H,9S,TD,TS two pairs
+7D,AC,AS,QD,TS	2C,6H,8H,AH,TD one pair	P1Win
+4S,6S,8C,9H,AD	3C,8D,8S,9D,KH one pair
+2D,4D,7S,KH,QS	3C,4C,AD,JC,JS one pair
+7H,9S,KC,QS,TD	5H,AC,JH,JS,TH one pair
+2S,6D,7C,AC,QS	5S,6S,AS,KH,KS one pair
+3C,6D,8H,KH,QS	2H,5C,6C,9C,9D one pair
+2C,4C,6H,7D,JS	3H,AC,JC,QD,TD high card
+4C,4H,8H,JD,QC	5C,7S,KC,KD,KS three of a kind
+2D,2S,3H,6D,QD	5S,6S,7H,AS,TH one pair	P1Win
+2C,6D,8D,8S,AS	8H,AH,JC,QD,TD one pair	P1Win
+2D,9C,9H,QH,TD	2H,3D,5C,8H,TC one pair	P1Win
+2S,3D,8S,KC,KH	4D,6S,JH,TC,TS one pair	P1Win
+9D,9H,AC,KC,QS	4D,5D,6H,8D,AH one pair	P1Win
+4H,5C,7C,9S,QS	2H,7D,8S,AD,JS high card
+2C,3D,9S,AC,AS	2D,2H,3H,JC,KH one pair	P1Win
+7H,JD,KH,QH,TC	4C,5S,8D,8H,KS one pair
+2H,2S,3S,5H,7H	3C,9H,AS,KD,QS one pair	P1Win
+3D,5S,6H,AD,JD	3S,6D,9C,9S,AC one pair
+2D,3D,5D,9C,AC	2S,4S,6C,6S,AD one pair
+2D,3H,4C,6S,QC	2H,JH,KC,QD,QH one pair
+3C,4D,8S,9S,QC	2H,5C,8H,QD,QS one pair
+3S,6D,6S,7H,KD	2H,5C,6C,JC,KH one pair	P1Win
+3S,6S,8H,9S,TC	2D,7S,8S,AD,TS high card
+3C,3H,5C,6H,9C	8H,JC,QD,QH,TD one pair
+3C,5D,JS,QD,TD	2C,9H,AS,KH,TH high card
+3D,5C,9S,JD,TC	5H,9H,AD,KC,QH high card
+3H,4H,7H,8H,TC	2S,6S,7C,AC,TD high card
+3C,5D,9D,JC,QS	2S,4D,6C,JH,KS high card
+3C,6S,7H,9S,TS	3D,4C,6D,9C,KD high card
+2D,7H,9H,AC,AH	2S,3S,7C,JH,QC one pair	P1Win
+2H,3C,9H,AC,QD	8C,8S,AS,KD,KH two pairs
+2D,6D,7S,TD,TH	2H,4D,5S,8D,JD one pair	P1Win
+8S,JD,KD,QH,QS	3S,4D,5H,JH,KC one pair	P1Win
+3C,6D,8H,KH,QC	2D,3S,7D,AH,TD high card
+4S,5S,6S,9H,QH	6C,6D,7S,TH,TS two pairs
+4C,6C,6D,JS,QS	3H,8D,8S,9C,TS one pair
+2C,5C,7S,AS,JS	2H,5S,AD,AH,TC one pair
+6C,9C,9D,KD,TS	2C,2S,4H,JC,QD one pair	P1Win
+3H,9H,KC,QS,TC	3C,4H,AD,KS,TH high card
+2H,9C,9D,KD,KH	2D,7S,JH,KC,TC two pairs	P1Win
+3S,7C,8C,AS,KC	3H,5D,9C,9S,QH one pair
+2D,2H,4C,8C,TD	2C,5D,7D,QC,TC one pair	P1Win
+4D,6C,KS,QH,TD	5D,7C,8D,AD,KH high card
+2S,4C,8C,8S,9S	3D,6H,7C,7H,QD one pair	P1Win
+5H,6C,8S,QH,TS	2H,2S,3C,4S,5C one pair
+2H,3S,6S,8S,JC	2S,3H,7H,8C,9D high card	P1Win
+2C,8H,9C,AC,QC	3S,4C,4H,6S,JD one pair
+3H,3S,4C,7D,9S	3D,5H,8H,JC,TC one pair	P1Win
+2D,2S,9S,KD,QH	6D,9C,9H,AD,QD one pair
+2D,8D,9S,JC,KS	4C,4S,JD,KC,TH one pair
+4D,5C,6D,KH,TS	5H,9H,AD,AS,KD one pair
+5D,6D,7C,JS,QD	5C,5H,QH,QS,TH two pairs
+5H,9D,JH,KH,QH	4C,4D,6C,TC,TH two pairs
+9D,AS,KD,KH,TS	4D,5S,7S,8H,9C one pair	P1Win
+2S,7D,9D,AS,KH	4C,7C,AH,TH,TS one pair
+4D,8S,9S,AC,KS	5C,8D,9D,QH,TH high card	P1Win
+5C,5D,8C,QS,TC	2C,3D,3S,4C,8D one pair	P1Win
+2D,3C,9D,KC,KS	4S,6C,8C,JC,KH one pair	P1Win
+6H,7D,7S,8H,AH	3C,4C,6C,KC,QD one pair	P1Win
+2C,3H,8H,AS,QH	4C,4H,7D,8C,KC one pair
+2C,4H,5S,QD,TD	4C,8S,AH,JH,QH high card
+3H,5S,8H,JS,QS	2C,2S,3S,9C,9H two pairs
+6H,7S,JC,QD,TS	3H,5S,AC,KC,TD high card
+7D,AS,JC,QH,QS	2C,4C,5C,5S,KC one pair	P1Win
+3D,4H,AS,JS,QH	2S,7H,8D,9C,JC high card	P1Win
+2S,4D,4S,5D,9D	2D,7H,8H,9C,QS one pair	P1Win
+3H,6D,7H,JS,TS	2D,7C,8S,AC,JH high card
+3C,5H,JH,KC,TC	4C,5S,8H,9D,9H one pair
+5H,8S,9H,AD,KC	8D,9D,AH,KH,KS one pair
+2H,6S,9H,JC,KS	3H,5H,9C,AH,QC high card
+5C,5S,6C,AD,KH	9C,9H,JC,QC,TD one pair
+2D,5D,5S,JC,QH	2H,8H,KS,QS,TS one pair	P1Win
+5H,5S,7H,AH,JH	3C,8S,AS,KH,TD one pair	P1Win
+2C,3D,4C,6H,JD	6C,7S,AH,JH,KC high card
+4C,7S,9D,AD,KS	3S,7D,8H,9C,KC high card	P1Win
+3C,5C,5H,7H,8H	3D,6D,JC,KH,QC one pair	P1Win
+2D,4H,5D,7D,QC	8H,9H,AD,AH,QH one pair
+3S,8C,9D,JS,KD	2H,2S,3C,5D,6D one pair
+3C,6H,6S,8S,TS	3H,5S,6C,8D,TD one pair	P1Win
+3D,7C,9C,JH,KS	4H,5S,6H,9S,QS high card	P1Win
+4S,6S,7S,KC,TH	3S,JC,JH,KD,KS two pairs
+2S,3C,6D,7C,QH	2C,5H,7S,8H,AH high card
+6D,8D,KC,KH,QD	3D,5C,7H,9C,9D one pair	P1Win
+2D,6H,8S,9S,JS	2S,6D,7C,KC,TC high card	P1Win
+7H,9C,JH,KC,KD	2S,3D,6H,7S,8S one pair	P1Win
+2D,4C,4H,8H,9H	2H,5S,7H,8D,8S one pair
+3C,5S,7C,7S,AD	3D,4D,9H,JC,KH one pair	P1Win
+5D,6D,7D,9C,AS	4C,JC,KH,QH,QS one pair
+3D,7D,JD,KD,QS	6D,8S,JS,QC,QD one pair
+5S,6S,8C,QH,TH	2C,9H,AC,AS,JD one pair
+3C,7S,KS,QC,QH	4C,5C,5D,AH,KC one pair	P1Win
+2C,4H,6C,9D,AH	3D,3H,5C,KD,TS one pair
+8S,AS,JS,QS,TD	3H,4H,AC,KD,KS one pair
+4H,5D,7D,9H,TS	2H,4C,8C,9C,QC high card
+2C,4D,7D,9H,KS	4C,AD,JS,KD,QH high card
+9D,AD,AH,KH,QD	9H,JC,JD,JS,KD three of a kind
+3C,4S,7S,8S,TS	2S,4D,5C,6H,7C high card	P1Win
+5C,6D,7S,JS,KD	2H,6S,8S,QH,TD high card	P1Win
+6C,6H,QH,TC,TD	2H,4C,8H,9D,QC two pairs	P1Win
+2H,3D,4D,6H,TS	2C,6C,6S,7H,8S one pair
+3S,9D,9H,JD,JH	2C,3H,6S,8S,AH two pairs	P1Win
+2C,3H,5S,8C,QS	2S,3C,4S,7D,AD high card
+5C,AS,QC,QH,TS	4C,4S,5H,6S,JS one pair	P1Win
+4C,5C,6H,JH,TD	4H,JS,KD,KH,QS one pair
+4D,9H,JC,KH,TC	3C,8D,8H,9D,KC one pair
+2H,8S,9S,AD,TC	2C,4H,5C,7H,TS high card	P1Win
+2S,4H,5S,6C,KS	7C,8H,9C,AH,KD high card
+3C,QH,QS,TD,TS	2C,7D,8D,AH,JH two pairs	P1Win
+3H,5D,5S,AC,KC	2H,4C,4S,7H,QS one pair	P1Win
+3D,7D,JH,KH,QC	6C,6D,KD,TD,TH two pairs
+5S,6C,8D,9D,TH	6D,7D,8C,9S,KH high card
+2S,7S,JD,QC,QS	4S,8D,JC,KS,QH one pair	P1Win
+5S,7S,9S,JD,KD	2D,7C,9C,AD,JC high card
+4S,5H,9C,AH,JH	2D,5D,6S,7C,TD high card	P1Win
+6C,6S,7H,9C,KC	4H,5S,KS,QD,TD one pair	P1Win
+2D,6S,8D,KS,TH	3S,9H,JD,TD,TS one pair
+4H,5D,9D,JS,KH	JD,QC,TC,TD,TS three of a kind
+4C,AC,AD,QD,QS	2D,3H,6S,AS,KC two pairs	P1Win
+3C,4C,7C,QS,TD	8D,9C,AD,AS,KC one pair
+6D,7H,8H,KC,QC	5S,6S,7S,8C,AH high card
+3S,6D,9H,AD,JC	6S,AS,JD,JH,KH one pair
+3D,7H,AD,KS,TS	2D,AC,JH,JS,QD one pair
+6D,7C,9C,JD,TC	3D,3S,6C,6H,JC two pairs
+3S,JC,KC,KD,QC	2C,8D,AH,QS,TS one pair	P1Win
+3D,8H,AS,JD,KD	5C,6C,7C,8C,QD high card	P1Win
