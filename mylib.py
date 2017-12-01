@@ -1,17 +1,17 @@
 import os, sys
 
 def mrange(start, stop, step):
-    while start < stop:
-        yield start
-        start += step
+		while start < stop:
+				yield start
+				start += step
 
 from math import sqrt
 def is_prime(num):
-    if num == 2:
-        return True
-    if (num < 2) or (num % 2 == 0):
-        return False
-    return all(num % i for i in mrange(3, int(sqrt(num)) + 1, 2))
+		if num == 2:
+				return True
+		if (num < 2) or (num % 2 == 0):
+				return False
+		return all(num % i for i in mrange(3, int(sqrt(num)) + 1, 2))
 
 #miller rabin primarity test
 from random import randrange
@@ -49,7 +49,20 @@ def sieveit(limit):
 			for i in range(n*n, limit, n*2): #the crucial cuttime
 				sieve[i]=False
 	return sieve
-	
+
+def sieve(n):
+	isPrime = [ True ] * (n+1) # assume all are prime to start
+	isPrime[0] = isPrime[1] = False # except 0 and 1, of course
+	primes = [ ]
+	for prime in range(n+1):
+		if (isPrime[prime] == True):
+			# we found a prime, so add it to our result
+			primes.append(prime)
+			# and mark all its multiples as not prime
+			for multiple in range(2*prime, n+1, prime):
+				isPrime[multiple] = False
+	return primes
+			
 # dont know when i'd use this one
 # def sumofproperdivisors(n):
 # 	limit = int(n**0.5)+1
