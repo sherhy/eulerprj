@@ -23,7 +23,6 @@ solution= []
 thelist = []
 
 def p3(n):
-
 	gogo = n*(n+1)/2
 	solution.append(gogo)
 	return gogo
