@@ -1,27 +1,19 @@
 import os, sys
 
 def mrange(start, stop, step):
-		while start < stop:
-				yield start
-				start += step
-
-from math import sqrt
-def is_prime(num):
-		if num == 2:
-				return True
-		if (num < 2) or (num % 2 == 0):
-				return False
-		return all(num % i for i in mrange(3, int(sqrt(num)) + 1, 2))
+	while start < stop:
+		yield start
+		start += step
 
 #miller rabin primarity test
 from random import randrange
 def check(a, s, d, n):
-		x = pow(a, d, n)
-		if x == 1: return True
-		for i in xrange(s - 1):
-			if x == n - 1: return True
-			x = pow(x, 2, n)
-		return x == n - 1
+	x = pow(a, d, n)
+	if x == 1: return True
+	for i in xrange(s - 1):
+		if x == n - 1: return True
+		x = pow(x, 2, n)
+	return x == n - 1
 def miller_rabin(n, k=10):
 	if n == 2: return True
 	if not n & 1: return False
@@ -62,6 +54,19 @@ def sieve(n):
 			for multiple in range(2*prime, n+1, prime):
 				isPrime[multiple] = False
 	return primes
+
+def isPrime(n):
+	if n == 2 or n == 3: return True
+	if n < 2 or n%2 == 0: return False
+	if n < 9: return True
+	if n%3 == 0: return False
+	srqt = int(n**0.5)
+	f = 5
+	while f <= srqt:
+		if n%f == 0: return False
+		if n%(f+2) == 0: return False
+		f +=6
+	return True 
 			
 # dont know when i'd use this one
 # def sumofproperdivisors(n):
@@ -76,8 +81,3 @@ def sieve(n):
 # 	for k in divisors:
 # 		x += k
 # 	return x
-
-def factorial(n):
-	if n ==1 or n ==0: return 1
-	else:
-		return n*factorial(n-1)

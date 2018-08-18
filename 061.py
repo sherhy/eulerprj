@@ -170,7 +170,7 @@ for _ in range(3,9):
 	print()
 
 print(sum([8515, 1521, 2147, 4753, 5359, 5985]))
-#print(sum([1281, 8128, 2882, 8256, 5625, 2512]))>cheat
+#print(sum([1281, 8128, 2882, 8256, 5625, 2512]))<cheat
 #i wonder why my engine couldn't find it
 
 print(time.time()-tstart,"seconds")

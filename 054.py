@@ -1,6 +1,6 @@
 #https://projecteuler.net/problem=54
 
-from module054 import *
+from m054 import *
 
 #read the file
 with open("p054_poker.txt") as f:
