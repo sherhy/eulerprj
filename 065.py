@@ -53,9 +53,25 @@ class Fraction(Number):
 		return Fraction(n=top, d=bot)
 
 	def simplify(self, li=[]):
-		bigger = self.n if self.n>self.d else self.d
-		for i in range(2,int(math.sqrt(bigger))+1):
-			pass
+		factors = [
+			factorize(self.n),
+			factorize(self.d)
+		]
+
+		for i in factors[0][::-1]:
+			if i in factors[1]:
+				factors[0].remove(i)
+				factors[1].remove(i)
+		top, bot = 1, 1
+		for i in factors[0]:
+			top = top * i
+		for j in factors[1]:
+			bot = bot * j
+
+		print(factors)
+		# self.n = top
+		# self.d = bot
+		return Fraction(top,bot)
 
 	def reciprocate(self):
 		self.n, self.d = self.d, self.n
@@ -105,20 +121,13 @@ def solve():
 		if f.next(): break
 	chain = makecf(f.chain)
 
-	# print(chain[-1].simplify())
+	lastf = chain[-1].simplify()
+	# print(chain[-1])
+	print(lastf)
+	sol = 0
+	for i in str(lastf.n):
+		sol += int(i)
+	print(sol)
 
-	factorized = []
-	for i in str(chain[-1]).split('/'):
-		print(int(i))
-		factorized.append( factorize(int(i)) )
-
-	for i in factorized[0][::-1]:
-		print(i, factorized[1])
-		if i in factorized[1]:
-			factorized[0].remove(i)
-			factorized[1].remove(i)
-	print(factorized)
 if __name__ =="__main__":
-	# solve()
-	print(factorize(15))
-	print(factorize(15))
+	solve()
