@@ -68,7 +68,8 @@ class Fraction(Number):
 		for j in factors[1]:
 			bot = bot * j
 
-		print(factors)
+		# print(factors)
+		
 		# self.n = top
 		# self.d = bot
 		return Fraction(top,bot)
@@ -93,7 +94,7 @@ def makecf(li=[1, 2, 2, 2, 2, 2, 2]):
 		fchain.append(cf)
 	#last one at li[0]
 	fchain.append(Fraction(n=li[0],d=1))
-	fchain.reverse()
+	#fchain.reverse()
 	# print(fchain)
 	return fchain
 
@@ -129,5 +130,26 @@ def solve():
 		sol += int(i)
 	print(sol)
 
+def main():
+	val = math.e
+	print(val)
+	fchain = [2]
+	count = 1
+	while len(fchain)<100:
+		fchain.append(1)
+		fchain.append(count*2)
+		fchain.append(1)
+		count +=1
+	chain = makecf(fchain)
+	print(len(chain))
+	# lastf = chain[0].simplify()
+	lastf = chain[0]
+	print(lastf)
+
+	sol = 0
+	for i in str(lastf.n):
+		sol += int(i)
+	print(sol)
+
 if __name__ =="__main__":
-	solve()
+	main()
