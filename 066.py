@@ -37,6 +37,11 @@ def solve(d):
 			print(d,x,y)
 			return int(x)
 
+#since the problem asks for max(sols.values())
+#find a way to start the solve() at near max of x
+TODO: find an approximate value for y for initial condidions for solve()
+	#too wasteful y+=1 every iteration
+	
 if __name__=="__main__":
 	sols = dict()
 	limit = 1000
